@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro Bundler
+dist/
+web-build/
+
+# Logs
+logs
+*.log
+*.lock
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Android build files
+/android/
+*.keystore
+
+# iOS build files
+/ios/
+*.xcworkspace
+*.xcodeproj
+
+# Environment files
+.env
